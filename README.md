@@ -1,69 +1,89 @@
-<h1 align="center">👋 Hello World!</h1>
-
-<h1 align="center">I'm Sainika Chowdary</h1>
-
-<h3 align="center">
-AI Student | Full Stack Developer | Python Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Sainika Chowdary</h1>
+<h3 align="center">🚀 BTech AI Student | Python Developer | Full Stack Developer in Progress</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+my+Github!;Full+Stack+Developer;Python+Developer;Always+Learning..." />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sainikachowdary&label=Visitors&color=blueviolet&style=flat"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## 👩‍💻 About Me
 
-🎓 BTech Student in Artificial Intelligence
+🎓 Pursuing BTech in Artificial Intelligence  
 
-🌱 Learning:
-- Full Stack Development
+🌱 Currently Learning:
 - Django
 - Flask
-- DSA
+- Full Stack Development
+- Data Structures & Algorithms
 
-🚀 Working on:
-- AI Projects
-- Web Applications
-- Backend Development
+💻 Skills:
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Full Stack Development
+
+🚀 Projects:
+- AI Medical Symptom Checker
+- Weather Application
+- News Website
+- Portfolio Website
+
+📚 Goal:
+Become a skilled Full Stack Developer and build real-world projects
 
 ⚡ Fun Fact:
-I enjoy building projects and learning technologies
+I enjoy exploring new technologies and turning ideas into projects
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,django,flask,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
 
 </p>
-
----
-
-## 🚀 Projects
-
-🏥 AI Medical Symptom Checker
-
-🌤 Weather Application
-
-📰 News Website
-
-🌐 Portfolio Website
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sainikachowdary&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Sainikachowdary&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sainikachowdary&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainikachowdary&theme=tokyo-night"/>
 </p>
 
 ---
@@ -73,15 +93,15 @@ I enjoy building projects and learning technologies
 <p align="center">
 
 <a href="https://linkedin.com/in/sainika-chowdary">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:sainikachowdary7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">✨ Learn • Build • Repeat ✨</h3>
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
