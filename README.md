@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Sainika Chowdary</h1>
-<h3 align="center">🚀 BTech AI Student | Python Developer | Full Stack Developer in Progress</h3>
+<h1 align="center">👋 Hello World!</h1>
+
+<h1 align="center">I'm Sainika Chowdary</h1>
+
+<h3 align="center">
+🎓 BTech AI Student | 💻 Full Stack Developer in Progress | 🚀 Python Developer
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Full+Stack+Developer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Full+Stack+Developer;Building+Projects;Always+Learning+New+Things"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sainikachowdary&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing BTech in Artificial Intelligence  
+🎓 Pursuing **BTech in Artificial Intelligence**
 
 🌱 Currently Learning:
 - Django
 - Flask
+- Backend Development
 - Full Stack Development
-- Data Structures & Algorithms
+- DSA
 
 💻 Skills:
 - Python
@@ -26,19 +36,20 @@
 - HTML
 - CSS
 - JavaScript
+
+🚀 Interested In:
+- Artificial Intelligence
+- Web Development
 - Full Stack Development
+- Backend Development
 
-🚀 Projects:
-- AI Medical Symptom Checker
-- Weather Application
-- News Website
-- Portfolio Website
-
-📚 Goal:
-Become a skilled Full Stack Developer and build real-world projects
+📚 Current Goal:
+- Build real-world projects
+- Gain internship experience
+- Improve problem-solving skills
 
 ⚡ Fun Fact:
-I enjoy exploring new technologies and turning ideas into projects
+> I enjoy converting ideas into projects.
 
 ---
 
@@ -46,28 +57,28 @@ I enjoy exploring new technologies and turning ideas into projects
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=flask" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=pycharm" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,django,flask,git,github,vscode,pycharm"/>
 
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+🌡 Weather Application
+
+📰 News Website
+
+🏥 AI Medical Symptom Checker
+
+🌐 Portfolio Website
 
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Sainikachowdary&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Sainikachowdary&theme=tokyonight"/>
 </p>
 
 ---
@@ -75,15 +86,23 @@ I enjoy exploring new technologies and turning ideas into projects
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sainikachowdary&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sainikachowdary&theme=algolia"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainikachowdary&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sainikachowdary/Sainikachowdary/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -93,15 +112,19 @@ I enjoy exploring new technologies and turning ideas into projects
 <p align="center">
 
 <a href="https://linkedin.com/in/sainika-chowdary">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:sainikachowdary7@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h3 align="center">
+
+✨ Learn • Build • Repeat ✨
+
+</h3>
