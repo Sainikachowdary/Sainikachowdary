@@ -1,131 +1,116 @@
-# 👋 Hi, I’m **K. Sainika Chowdary**
+<h1 align="center">Hi 👋, I'm Sainika Chowdary</h1>
+<h3 align="center">🚀 BTech AI Student | Python Learner | Backend Developer in Progress</h3>
 
-### 🚀 Backend Developer in Progress | Python • Django • Flask • DSA
-
-🎓 BTech Computer Science (AI) Student  
-🐍 Focused on backend development with **Python, Django & Flask**  
-🧠 Strengthening **Data Structures & Algorithms (Java)** for problem solving  
-🛠️ Building scalable and maintainable backend applications
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Backend+Developer+in+Progress;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🧠 About Me
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-I enjoy working on the logic and structure behind applications rather than only designing interfaces.
+## 👩‍💻 About Me
 
-I like understanding how systems work behind the scenes — APIs, databases, authentication, machine learning integration, and problem-solving with efficient algorithms.
+🎓 Pursuing BTech in Artificial Intelligence
 
-- 💻 Strong interest in **Python, Django, Flask & Backend Systems**
-- 🧩 Actively practicing **Data Structures & Algorithms (Java)**
-- 🤖 Interested in **AI and Machine Learning applications**
-- 🔐 Learning backend security and database concepts
-- 🧱 Exploring clean architecture and maintainable code
-- 🎯 Goal: Become a Backend Engineer with strong problem-solving skills
-
----
-
-## 🛠️ Tech & Tools
-
-<table>
-<tr>
-<td align="center"><b>🚀 Backend</b></td>
-<td align="center"><b>🧠 DSA</b></td>
-<td align="center"><b>🌐 Frontend</b></td>
-<td align="center"><b>⚙️ Tools</b></td>
-</tr>
-
-<tr>
-
-<td align="center" valign="top">
-
-Python<br>
-Django<br>
-Flask<br>
-REST API
-
-</td>
-
-<td align="center" valign="top">
-
-Java<br>
-Arrays<br>
-Linked Lists<br>
-Stacks & Queues<br>
-Recursion<br>
-Sorting
-
-</td>
-
-<td align="center" valign="top">
-
-HTML<br>
-CSS<br>
-JavaScript (Basic)
-
-</td>
-
-<td align="center" valign="top">
-
-Git<br>
-GitHub<br>
-VS Code<br>
-SQL
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🚀 Current Learning Focus (2026)
-
-- Django REST Framework
-- RESTful API design
-- Authentication & Authorization (JWT)
-- Database optimization
+🌱 Currently learning:
+- Django
+- Backend Development
 - Data Structures & Algorithms
-- Machine Learning integration with web applications
-- Writing clean and efficient code
+
+💻 Skills:
+- Python
+- SQL
+- MS Excel
+- C Programming
+
+🚀 Projects:
+- AI Medical Symptom Checker
+- Weather Application
+- News Website
+- Portfolio Website
+
+📚 Goal:
+Become a skilled backend developer and gain practical experience through projects and internships
+
+⚡ Fun Fact:
+I love exploring new technologies and building projects
 
 ---
 
-## 📌 Featured Repositories (Pinned)
-
-### 🤖 SymptoCare
-AI-powered medical symptom checker using Machine Learning
-
-Features:
-- Disease prediction
-- Symptom analysis
-- Backend integration
-- User-friendly interface
-
-### 💬 Feedback Form (Django)
-A Django project with:
-- Models
-- Admin panel
-- Views
-- Form handling
-
-### 📚 DSA Journey (Java)
-Daily coding practice and solved problems
-
-### ⚙️ Backend Projects
-Small Flask and Django projects demonstrating backend concepts
-
----
-
-## 📊 GitHub Stats
+## 🛠 Languages and Tools
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainikachowdary&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainikachowdary&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=pycharm" />
+
 </p>
 
 ---
 
-⭐ Always learning, building and improving one project at a time.
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sainikachowdary&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainikachowdary&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Sainikachowdary&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sainikachowdary&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainikachowdary&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sainika-chowdary">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sainikachowdary7@gmail.comL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
