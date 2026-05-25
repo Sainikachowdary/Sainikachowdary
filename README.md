@@ -3,73 +3,58 @@
 <h1 align="center">I'm Sainika Chowdary</h1>
 
 <h3 align="center">
-🎓 BTech AI Student | 💻 Full Stack Developer in Progress | 🚀 Python Developer
+AI Student | Full Stack Developer | Python Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Full+Stack+Developer;Building+Projects;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=500&height=45&lines=Welcome+to+my+Github!;Full+Stack+Developer;Python+Developer;Always+Learning..." />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sainikachowdary&label=Profile+Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sainikachowdary&label=Visitors&color=blueviolet&style=flat"/>
 </p>
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing **BTech in Artificial Intelligence**
+🎓 BTech Student in Artificial Intelligence
 
-🌱 Currently Learning:
+🌱 Learning:
+- Full Stack Development
 - Django
 - Flask
-- Backend Development
-- Full Stack Development
 - DSA
 
-💻 Skills:
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-🚀 Interested In:
-- Artificial Intelligence
-- Web Development
-- Full Stack Development
+🚀 Working on:
+- AI Projects
+- Web Applications
 - Backend Development
 
-📚 Current Goal:
-- Build real-world projects
-- Gain internship experience
-- Improve problem-solving skills
-
 ⚡ Fun Fact:
-> I enjoy converting ideas into projects.
+I enjoy building projects and learning technologies
 
 ---
 
-## 🛠 Skills & Technologies
+## 🛠 Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript,mysql,django,flask,git,github,vscode,pycharm"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql,django,flask,git,github,vscode"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-🌡 Weather Application
-
-📰 News Website
+## 🚀 Projects
 
 🏥 AI Medical Symptom Checker
+
+🌤 Weather Application
+
+📰 News Website
 
 🌐 Portfolio Website
 
@@ -78,31 +63,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Sainikachowdary&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sainikachowdary&theme=algolia"/>
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sainikachowdary&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sainikachowdary/Sainikachowdary/output/github-contribution-grid-snake.svg"/>
+<img src="https://streak-stats.demolab.com?user=Sainikachowdary&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -123,8 +84,4 @@
 
 ---
 
-<h3 align="center">
-
-✨ Learn • Build • Repeat ✨
-
-</h3>
+<h3 align="center">✨ Learn • Build • Repeat ✨</h3>
