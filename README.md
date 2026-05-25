@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sainika Chowdary</h1>
-<h3 align="center">🚀 BTech AI Student | Python Learner | Backend Developer in Progress</h3>
+<h3 align="center">🚀 BTech AI Student | Python Developer | Full Stack Developer in Progress</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Backend+Developer+in+Progress;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+Student;Python+Developer;Full+Stack+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -11,18 +11,22 @@
 
 ## 👩‍💻 About Me
 
-🎓 Pursuing BTech in Artificial Intelligence
+🎓 Pursuing BTech in Artificial Intelligence  
 
-🌱 Currently learning:
+🌱 Currently Learning:
 - Django
-- Backend Development
+- Flask
+- Full Stack Development
 - Data Structures & Algorithms
 
 💻 Skills:
 - Python
+- Java
 - SQL
-- MS Excel
-- C Programming
+- HTML
+- CSS
+- JavaScript
+- Full Stack Development
 
 🚀 Projects:
 - AI Medical Symptom Checker
@@ -31,18 +35,19 @@
 - Portfolio Website
 
 📚 Goal:
-Become a skilled backend developer and gain practical experience through projects and internships
+Become a skilled Full Stack Developer and build real-world projects
 
 ⚡ Fun Fact:
-I love exploring new technologies and building projects
+I enjoy exploring new technologies and turning ideas into projects
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Skills & Technologies
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=c" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />
@@ -54,18 +59,6 @@ I love exploring new technologies and building projects
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=pycharm" />
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sainikachowdary&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainikachowdary&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +88,7 @@ I love exploring new technologies and building projects
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -103,7 +96,7 @@ I love exploring new technologies and building projects
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:sainikachowdary7@gmail.comL">
+<a href="mailto:sainikachowdary7@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -111,6 +104,4 @@ I love exploring new technologies and building projects
 
 ---
 
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
